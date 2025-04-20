@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AerodynaMND](https://philsca-git-master-jayem.vercel.app/)
 
-- 🌱 I’m currently learning **Nextjs and Docker**
+- 🌱 I’m currently learning **Nextjs and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [jayem.dev/vercel.app](jayem.dev/vercel.app)
 
