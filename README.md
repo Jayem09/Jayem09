@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Mark Dinglasan</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🔭 I’m currently working on [Edar CMT E-Commerce Website](https://edar10-jayem.vercel.app/)
+- 🔭 I’m currently working on [AerodynaMND](https://philsca-git-master-jayem.vercel.app/)
 
 - 🌱 I’m currently learning **Nextjs and Docker**
 
