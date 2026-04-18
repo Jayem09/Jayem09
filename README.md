@@ -3,7 +3,7 @@
 ![Header](https://readmeforge.natrajx.in/api/header?name=JAYEM&title=Fullstack+Developer&tagline=React+-+Go+-+Java+-+Building+real+systems&metal=vintage-green&style=cyber&height=180&theme=dark)
 
 <a href="https://gitcity.natrajx.in/Jayem09">
-  <img src="https://gitcity.natrajx.in/api/svg?u=Jayem09&theme=aurora&height=200" alt="GitCity Skyline" width="100%" />
+  <img src="https://gitcity.natrajx.in/api/svg?u=Jayem09&theme=noir&height=200" alt="GitCity Skyline" width="100%" />
 </a>
 
 ### Hi, I'm John Mark Dinglasan 👋
