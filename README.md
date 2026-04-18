@@ -1,33 +1,30 @@
 <div align="center">
 
-![Header](https://readmeforge.natrajx.in/api/header?name=JAYEM&title=Fullstack+Developer&tagline=Building+systems+that+actually+deploy&metal=vintage-green&style=cyber&height=180&theme=dark)
+![Header](https://readmeforge.natrajx.in/api/header?name=JAYEM&title=Fullstack+Developer&tagline=React+-+Go+-+Java+-+Building+real+systems&metal=vintage-green&style=cyber&height=180&theme=dark)
+
+<a href="https://gitcity.natrajx.in/Jayem09">
+  <img src="https://gitcity.natrajx.in/api/svg?u=Jayem09&theme=aurora&height=200" alt="GitCity Skyline" width="100%" />
+</a>
 
 ### Hi, I'm John Mark Dinglasan 👋
 
-**Fullstack Developer** | React • Go • Java | Building real systems that actually deploy
+> 🎓 4th Year IT Student building systems that actually deploy
 
 </div>
 
 ---
 
-## 🏙️ My GitCity
-
-<p align="center">
-  <a href="https://gitcity.natrajx.in/Jayem09">
-    <img src="https://gitcity.natrajx.in/api/svg?u=Jayem09&theme=aurora" alt="My GitHub Skyline" width="100%" />
-  </a>
-</p>
+<!-- Profile Bento Card -->
+<img src="https://readme-badge.vercel.app/api/card?username=Jayem09&theme=night" width="100%" alt="Profile Stats" />
 
 ---
 
-## 🔭 What I'm Building
+## 🔭 Featured Projects
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| [SMSystem](https://github.com/Jayem09/SMSystem) | Inventory & POS system with real-time SSE | React, Go, MySQL | 🟢 Active |
+| [SMSystem](https://github.com/Jayem09/SMSystem) | Inventory & POS with real-time SSE dashboard | React, Go, MySQL | 🟢 Active |
 | [AerodynaMND](https://github.com/Jayem09/AerodynaMND) | Aviation platform | React, Firebase | 🔄 In Progress |
-
-> 🎓 4th Year IT Student — focused on real-world applications
 
 ---
 
@@ -62,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayem09&show_icons=true&theme=tokyonight&hide_rank=true&custom_title=Total+Contributions" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayem09&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayem09&theme=tokyonight" alt="Streak Stats" />
 </p>
 
@@ -79,7 +76,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Jayem09/Jayem09/blob/output/github-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github.com/Jayem09/Jayem09/raw/output/github-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -99,9 +96,14 @@
   <a href="https://instagram.com/jayem.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://jayem.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
+
+<div align="center">
 
 ## ⚡ Quick Hits
 
@@ -111,8 +113,6 @@
 - 📦 `final_final_v2.zip` — every developer's legacy
 
 ---
-
-<div align="center">
 
 **Last updated:** April 2026
 
